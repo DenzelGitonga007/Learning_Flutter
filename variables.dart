@@ -5,7 +5,7 @@ void main() {
 
   double num2 = 7.5;
 
-// print the nums
+// print the nums variables
   print(num1);
   print("Num2 is:" + num2.toString());
 
